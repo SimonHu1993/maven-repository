@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Nov 30 14:32:41 CST 2018
+servlet-api-1.0.jar>=
+servlet-api-1.0.pom>=
